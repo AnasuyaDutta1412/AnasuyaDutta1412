@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=35&pause=1000&color=50C878&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there;I+am+Anasuya+Dutta" />
 </h1>
 
-<h3 align="center">Want to work as a data analyst 🇮🇳</h3>
+<h3 align="center">Want to work as a Data Analyst/ Software Engineer/ Data Scientist</h3>
 
 
 <div align="center">
@@ -24,9 +24,9 @@ Here are some ideas to get you started:-->
  
  👯 I’m looking to collaborate on Open Source
 
-📫 Reach me at **AnasuyaDutta1412@gmail.com**
+📫 Reach me at **duttaanasuya1412@gmail.com**
 
-🔗 Check out my portfolio : **https://adityafolio.vercel.app/**
+🔗 Check out my portfolio : **https://portfolio-anasuya.tilda.ws/**
 
  </div>
  
