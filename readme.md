@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=35&pause=1000&color=50C878&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there;I+am+Anasuya+Dutta" />
 </h1>
 
-<h3 align="center">Want to work as a AI Engineer/ Software Engineer/ Data Scientist</h3>
+<h3 align="center">Want to work as a AI Engineer/ Software Engineer/ Data Scientist/ Data Analyst</h3>
 
 
 <div align="center">
