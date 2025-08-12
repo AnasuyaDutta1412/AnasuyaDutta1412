@@ -20,7 +20,7 @@ Here are some ideas to get you started:-->
   
  👨‍🎓 1st year MSc in Computer Science student at **University of Nottingham**
 
- 🔭 I’m currently working on AI models for reasoning and physical planning tasks**
+ 🔭 I’m currently working on AI models for reasoning and physical planning tasks
  
  👯 I’m looking to collaborate on Open Source
 
